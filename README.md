@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Keyur-ec
 - 👀 I’m interested in Embedded system and programming
-- 🌱 I’m currently learning RTOS
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me keyurecprojects@gmail.com
 
